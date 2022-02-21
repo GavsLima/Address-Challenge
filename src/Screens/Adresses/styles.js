@@ -7,7 +7,7 @@ export const Container = styled.SafeAreaView`
 `;
 
 export const TextAddress = styled.Text`
-    color: black;
+    color: #F27D16;
     font-size: 15px;
     font-weight: bold;
 `;
@@ -18,7 +18,7 @@ export const TextView = styled.View`
 
 export const CardView = styled.View`
   width: 85%;
-  background-color: #A7AED9;
+  background-color: #FFF;
   margin-top: 5%;
   margin-left: 5%;
   padding: 10px;
